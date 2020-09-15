@@ -1,0 +1,3 @@
+[submodule "thirdparties/jansson"]
+	path = thirdparties/jansson
+	url = git@github.com:MetaBarj0/jansson.git
